@@ -1,0 +1,25 @@
+Proyek Web: Oxyl Parfume
+Deskripsi Proyek
+
+Oxyl Parfume adalah website sederhana yang menampilkan berbagai produk parfum dengan tampilan menarik dan fitur dasar seperti halaman login, logout, serta daftar harga parfum. Website ini bertujuan untuk memberikan kemudahan kepada pengguna dalam melihat dan memilih parfum yang tersedia, dengan desain yang bersih dan modern.
+
+Fitur utama yang terdapat di web Oxyl Parfume antara lain:
+- Halaman Login & Logout untuk mengatur akses pengguna.
+- Halaman Index (Beranda) yang menampilkan daftar produk parfum.
+- Daftar Harga Parfum agar pengguna bisa melihat kisaran harga produk.
+- Tampilan Produk dengan Gambar untuk mempercantik halaman dan menarik minat pengunjung.
+
+Pembagian Tugas
+
+Paskalis
+Membuat halaman login dan logout.
+Membantu membuat halaman index (beranda).
+Menambahkan fitur harga parfum agar pengguna bisa melihat detail harga produk.
+
+Ryan Giggs
+Membuat bagian utama halaman index sebagai pusat tampilan produk.
+Menambahkan berbagai produk parfum ke dalam website agar katalog lebih lengkap.
+
+Decha Danilo
+Menambahkan gambar parfum yang telah disiapkan.
+Mempercantik tampilan halaman index dan login agar website terlihat lebih menarik dan profesional.
